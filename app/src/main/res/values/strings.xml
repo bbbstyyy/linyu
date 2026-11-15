@@ -1,0 +1,9 @@
+<resources>
+    <string name="widget_number">—</string>
+    <string name="widget_idle">空闲</string>
+    <string name="widget_open">开阀</string>
+    <string name="widget_balance_unknown">余额 --</string>
+    <string name="widget_header_description">设备 %1$s，%2$s，%3$s。点按查看详情或更换设备。</string>
+    <string name="widget_action_description">%1$s，设备 %2$s</string>
+    <string name="widget_action_disabled">%1$s，暂不可用：%2$s</string>
+</resources>

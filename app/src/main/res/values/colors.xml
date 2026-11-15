@@ -1,0 +1,32 @@
+<resources>
+    <color name="ui_background">#F2F9FE</color>
+    <color name="ui_surface">#FFFFFF</color>
+    <color name="ui_text">#1B354A</color>
+    <color name="ui_muted">#4E6577</color>
+    <color name="ui_primary">#176A9A</color>
+    <color name="ui_primary_fill">#A9DCF7</color>
+    <color name="ui_on_primary">#123D58</color>
+    <color name="ui_secondary">#EAF5FD</color>
+    <color name="ui_outline">#CADFEF</color>
+    <color name="ui_tab_surface">#DDF0FC</color>
+    <color name="ui_positive">#147443</color>
+    <color name="ui_problem">#B3261E</color>
+    <color name="ui_active">#126A91</color>
+    <color name="ui_active_fill">#91CFF1</color>
+    <color name="ui_on_active">#123D58</color>
+    <color name="ui_ready_surface">#E5F4FD</color>
+    <color name="ui_active_surface">#DEEFFA</color>
+    <color name="ui_problem_surface">#FCE9E6</color>
+    <color name="ui_warning">#795500</color>
+    <color name="ui_warning_surface">#FFF0C4</color>
+    <color name="ui_disabled_surface">#E6EEF4</color>
+    <color name="ui_ripple">#284E6577</color>
+    <color name="ui_primary_ripple">#28123D58</color>
+    <!-- Stable brand colors keep the launcher icon independent of day/night mode. -->
+    <color name="brand_icon_background">#F2F9FE</color>
+    <color name="brand_icon_halo">#DDF0FC</color>
+    <color name="brand_drop">#8DD3F8</color>
+    <color name="brand_drop_depth">#60B9EB</color>
+    <color name="brand_drop_edge">#3A8AB8</color>
+    <color name="brand_drop_highlight">#F4FBFF</color>
+</resources>

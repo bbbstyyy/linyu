@@ -1,0 +1,25 @@
+<resources>
+    <color name="ui_background">#101E2B</color>
+    <color name="ui_surface">#192D3E</color>
+    <color name="ui_text">#E3EFFA</color>
+    <color name="ui_muted">#AFC3D7</color>
+    <color name="ui_primary">#A9DCF7</color>
+    <color name="ui_primary_fill">#A9DCF7</color>
+    <color name="ui_on_primary">#10354D</color>
+    <color name="ui_secondary">#223E53</color>
+    <color name="ui_outline">#49667E</color>
+    <color name="ui_tab_surface">#26475E</color>
+    <color name="ui_positive">#8EE1AD</color>
+    <color name="ui_problem">#FFB4AB</color>
+    <color name="ui_active">#8CCEF2</color>
+    <color name="ui_active_fill">#8CCEF2</color>
+    <color name="ui_on_active">#10354D</color>
+    <color name="ui_ready_surface">#203D50</color>
+    <color name="ui_active_surface">#224358</color>
+    <color name="ui_problem_surface">#522B27</color>
+    <color name="ui_warning">#F0D57F</color>
+    <color name="ui_warning_surface">#493D1D</color>
+    <color name="ui_disabled_surface">#293B4C</color>
+    <color name="ui_ripple">#38AFC3D7</color>
+    <color name="ui_primary_ripple">#3810354D</color>
+</resources>

@@ -1,0 +1,30 @@
+# Local tools, build outputs and IDE state.
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+artifacts/
+dist/
+__pycache__/
+
+# Never commit signing material or local account data.
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+keystore.properties
+signing.properties
+account.enc*
+*.apk
+*.aab
+*.apks
+*.idsig
+*.log
+captures/

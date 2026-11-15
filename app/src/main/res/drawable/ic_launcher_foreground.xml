@@ -1,0 +1,5 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="@color/brand_drop" android:strokeColor="@color/brand_drop_edge" android:strokeWidth="0.8" android:pathData="M54,24C54,24 32,48 32,61C32,73.2 41.8,83 54,83C66.2,83 76,73.2 76,61C76,48 54,24 54,24Z" />
+    <path android:fillColor="@color/brand_drop_depth" android:pathData="M33,65C37,73 45,77 54,77C63,77 71,73 75,65C73,75 65,83 54,83C43,83 35,75 33,65Z" />
+    <path android:strokeColor="@color/brand_drop_highlight" android:strokeWidth="4.5" android:strokeLineCap="round" android:fillColor="@android:color/transparent" android:pathData="M42,58Q40,68 49,72" />
+</vector>

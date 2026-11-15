@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_root" android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="1dp" android:background="@drawable/widget_background">
+    <LinearLayout android:id="@+id/widget_header" android:layout_width="match_parent" android:layout_height="0dp"
+        android:layout_weight="1" android:orientation="vertical" android:gravity="center" android:minHeight="48dp"
+        android:background="@drawable/widget_header_feedback" android:focusable="true" android:clickable="true"
+        android:importantForAccessibility="yes">
+        <TextView android:id="@+id/widget_device" style="@style/WidgetNumber"
+            android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="0.8" android:autoSizeMinTextSize="12dp" android:autoSizeMaxTextSize="22sp" />
+        <TextView android:id="@+id/widget_status" style="@style/WidgetStatus"
+            android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"
+            android:layout_marginStart="6dp" android:layout_marginEnd="6dp" android:autoSizeMaxTextSize="15sp" />
+        <TextView android:id="@+id/widget_balance" style="@style/WidgetBalance"
+            android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:autoSizeMaxTextSize="15sp" />
+    </LinearLayout>
+    <Button android:id="@+id/widget_action" style="@style/WidgetAction"
+        android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginTop="8dp" />
+</LinearLayout>

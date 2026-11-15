@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <activity android:name=".AppUiPreviewActivity" android:exported="true" android:label="应用界面验证" />
+        <activity android:name=".WidgetUiPreviewActivity" android:exported="true" android:label="离线界面验证" />
+    </application>
+</manifest>
