@@ -23,17 +23,17 @@
     <th>我的</th>
   </tr>
   <tr>
-    <td><img src="docs/images/app-login.png" width="250" alt="我的页短信登录界面，可输入手机号和短信验证码"></td>
-    <td><img src="docs/images/app-device.png" width="250" alt="设备页显示用水余额、当前设备和开阀按钮"></td>
-    <td><img src="docs/images/app-profile.png" width="250" alt="我的页显示账号、余额和会话管理"></td>
+    <td><a href="docs/images/app-login.png"><img src="docs/images/app-login.png" width="180" alt="我的页短信登录界面，可输入手机号和短信验证码"></a></td>
+    <td><a href="docs/images/app-device.png"><img src="docs/images/app-device.png" width="180" alt="设备页显示用水余额、当前设备和开阀按钮"></a></td>
+    <td><a href="docs/images/app-profile.png"><img src="docs/images/app-profile.png" width="180" alt="我的页显示账号、余额和会话管理"></a></td>
   </tr>
 </table>
 
 | 桌面小组件：开水 | 桌面小组件：关水 |
 | --- | --- |
-| <img src="docs/images/widget-open.png" width="200" alt="空闲设备的小组件，显示余额和开阀按钮"> | <img src="docs/images/widget-close.png" width="200" alt="正在用水的小组件，显示余额和关阀按钮"> |
+| <a href="docs/images/widget-open.png"><img src="docs/images/widget-open.png" width="130" alt="空闲设备的小组件，显示余额和开阀按钮"></a> | <a href="docs/images/widget-close.png"><img src="docs/images/widget-close.png" width="130" alt="正在用水的小组件，显示余额和关阀按钮"></a> |
 
-图片由当前应用页面和小组件的原生视图生成，使用模拟账号、设备及余额。小组件示例展示组件本身；桌面留白和尺寸随启动器而异。
+点击图片可查看原图。图片由当前应用页面和小组件的原生视图生成，使用模拟账号、设备及余额。小组件示例展示组件本身；桌面留白和尺寸随启动器而异。
 
 ## 下载与安装
 
@@ -59,7 +59,7 @@ Release 同时提供 `SHA256SUMS`（文件校验值）和 `SIGNING_CERT.txt`（�
 
 在 **「我的」** 页向下滑动，找到「桌面小组件」，点击 **「添加桌面小组件」**，按照桌面提示确认添加。若启动器没有弹出添加窗口，长按桌面空白区域，打开「小组件」，找到「淋浴小助手」并拖到桌面，留出至少 **2×2** 的空间。
 
-<img src="docs/images/app-widget-setup.png" width="300" alt="我的页向下滑动后可见添加桌面小组件按钮与手动添加方法">
+<a href="docs/images/app-widget-setup.png"><img src="docs/images/app-widget-setup.png" width="200" alt="我的页向下滑动后可见添加桌面小组件按钮与手动添加方法"></a>
 
 所有小组件共享当前账号和所选设备；需要换设备时，先关水，再回到应用的「设备」页选择。
 
