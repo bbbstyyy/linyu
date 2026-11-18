@@ -59,7 +59,7 @@ kotlin { compilerOptions { jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarg
 dependencies {
     testImplementation("junit:junit:4.13.2")
     testImplementation("org.robolectric:robolectric:4.17")
-    implementation("com.google.code.gson:gson:2.11.0") {
+    implementation("com.google.code.gson:gson:2.15.0") {
         // Compile-time annotations only; Gson does not require these at runtime.
         exclude(group = "com.google.errorprone", module = "error_prone_annotations")
     }
